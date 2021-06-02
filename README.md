@@ -10,4 +10,4 @@
 
 <h2>Informações Adicionais 💻</h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F1NH4WK&theme=midnight-purple) <img align="right" height = '188px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&theme=midnight-purple" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F1NH4WK&theme=midnight-purple) <img align="right" height = '180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&theme=midnight-purple" />
