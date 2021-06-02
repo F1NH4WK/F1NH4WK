@@ -1,6 +1,11 @@
 <h1 align="center">FINHAWK</h1>
 
+<h2>Sobre mim 📑</h2>
+<h3> Iniciei minha jornada na área da tecnologia a pouco tempo, desde o início focado no back-end, minha área favorita. Começei com o Python 🐍, mas pretendo aprender JS e C++. Qualquer dica será muito bem-vinda"</h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F1NH4WK&theme=tokyonight)
+<h2>Hobbies 🎲</h2>
+<h3>📘 - Livros de romance e mistério; </br>
+🎮 - RPG on top; </br>
+🖊️ - Tradutor de mangás.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&theme=tokyonight" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F1NH4WK&theme=midnight-purple) <img align="right" height = '188px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&theme=midnight-purple" />
