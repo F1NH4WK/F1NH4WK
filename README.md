@@ -1,7 +1,7 @@
 <h1 align="center">FINHAWK</h1>
 
 <h2>Sobre mim 📑</h2>
-<h3> Iniciei minha jornada na área da tecnologia há pouco tempo, desde o início focado no back-end, minha área favorita. Começei com o Python 🐍, mas pretendo aprender JS e C++. Qualquer dica será muito bem-vinda</h3>
+<h3> Gosto de Python e Flutter 👍</h3>
 
 <h2>Hobbies 🎲</h2>
 <h3>📘 - Livros de romance e mistério; </br>
