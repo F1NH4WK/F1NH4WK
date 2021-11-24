@@ -13,6 +13,6 @@
 <h2>Informações Adicionais 💻</h2>
 
 <div align = 'center'>
-  <img align="left" float = 'left' height = '180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&theme=midnight-purple"/>
-  <img  height = '180px' src = 'https://github-readme-stats.vercel.app/api?username=F1NH4WK&theme=midnight-purple'/>
+  <img align="left" float = 'left' height = '180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&theme=midnight-purple"></img>
+  <img  height = '180px' src = 'https://github-readme-stats.vercel.app/api?username=F1NH4WK&theme=midnight-purple'></img>
    <div>
