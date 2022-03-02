@@ -2,7 +2,7 @@
 <h1 align="center">FINHAWK</h1>
 
 <h2>Sobre mim 📑</h2>
-<h3>Gosto de automizar coisas com a programação, principalmente com Python.</h3>
+<h3> Faço alguns programas back-end por aí, automatização e afins</h3>
 
 <h2>Hobbies 🎲</h2>
 <h3>📘 - Romance e mistério; </br>
