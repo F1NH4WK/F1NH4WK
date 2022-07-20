@@ -2,7 +2,7 @@
 <h1 align="center">FINHAWK</h1>
 
 <h2>Sobre mim 📑</h2>
-<h3> Curto mexer com mobile, automatização e essas coisas...</h3>
+<h3> Curto mobile (React Native) e automatização (Python)</h3>
 
 <h2>Hobbies 🎲</h2>
 <h3>📘 - Romance e mistério; </br>
