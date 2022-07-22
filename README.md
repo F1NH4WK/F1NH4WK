@@ -2,13 +2,13 @@
 <h1 align="center">FINHAWK</h1>
 
 <h2>Descrição</h2>
-<h3> Curto mobile (React Native) e automatização (Python)</h3>
+<h3>Gosto de programar aplicativos mobile e de automatizar tudo (ou quase). Comecei a programar em 2021 e me apaixonei pela área.</h3>
 
 <h2>Sobre mim </h2>
 <h3>
 📖 | Romance, Terror e Mistérios </br>
 🎮 | MetroidVania, SoulsLike e RPG </br>
-🖊️ | Tradutor
+🖊️ | Tradutor </br>
 🏐 | Entusiasta de vôlei
 </h3>
 
