@@ -1,7 +1,6 @@
 
 <h1 align="center">FINHAWK</h1>
 
-<h2>Descrição</h2>
 <h3>Gosto de programar aplicativos mobile e de automatizar tudo (ou quase). Comecei a programar em 2021 e me apaixonei pela área.</h3>
 
 <h2>Sobre mim </h2>
