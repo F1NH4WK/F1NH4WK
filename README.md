@@ -1,6 +1,6 @@
 <img width="100%" alt="Frame 1" src="https://github.com/F1NH4WK/F1NH4WK/assets/71582642/8046024b-069a-4b03-970d-56f75451f719">
 
-Hello, I'm Eduardo! I'm currently studying **Information System** at University of Sao Paulo (USP), one of the best universities of Brazil, my beloved. I love everything about programming and tech stuff, that leads me to assume I'm going to be a **Full Stack Developer**, but that may change, who knows?! You can also check my repositories, you will find discord bots, websites and some python scripts, lol.
+Hello, I'm Eduardo! Currently studying **Information System** at University of Sao Paulo (USP), one of the best universities of Brazil, my beloved. I love everything about programming and tech stuff, that leads me to assume I'm going to be a **Full Stack Developer**, but that may change, who knows?! You can also check my repositories, you will find discord bots, websites and some python scripts, lol.
 
 ### My Technologies:
 <div align = "left">
