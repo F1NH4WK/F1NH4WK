@@ -1,17 +1,79 @@
-<img width="100%" alt="Frame 1" src="https://github.com/F1NH4WK/F1NH4WK/assets/71582642/8046024b-069a-4b03-970d-56f75451f719">
-
-Hello, I'm Eduardo! Currently studying **Information System** at University of Sao Paulo (USP), one of the best universities of Brazil, my beloved. I love everything about programming and tech stuff, that leads me to assume I'm going to be a **Full Stack Developer**, but that may change, who knows?! You can also check my repositories, you will find discord bots, websites and some python scripts, lol.
-
-### My Technologies:
-<div align = "left">
-  <img width = "50px" src = "https://github.com/F1NH4WK/F1NH4WK/assets/71582642/9c0a91ad-ffe0-4784-96dd-33e00a18422c">
-  <img width = "50px" src = "https://github.com/F1NH4WK/F1NH4WK/assets/71582642/1ba33cd3-1695-4851-ac32-61b6b7005084">
-  <img width = "50px" src = "https://github.com/F1NH4WK/F1NH4WK/assets/71582642/c9563040-463c-4344-9ab0-ca79a988d6b5">
-  <img width = "50px" src = "https://github.com/F1NH4WK/F1NH4WK/assets/71582642/8a14f899-074f-4b24-8735-b5309fef5803">
-  <img width = "50px" src = "https://github.com/F1NH4WK/F1NH4WK/assets/71582642/2776acf3-a311-4c3c-8d71-37080f62539a">
-  <img width = "50px" src = "https://github.com/F1NH4WK/F1NH4WK/assets/71582642/b27466c3-0164-473d-8ba7-58a22dfc9f96">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E_INITIALIZING+KERNEL...;%3E_LOADING+MEMORY+MODULES...;%3E_ACCESS+GRANTED:+WELCOME+TO+FINHAWK_OS" alt="Typing SVG" />
 </div>
 
-<div align = "right">
-  <h3>Allons-Y</h3>
+---
+
+### 🟢 `SYSTEM_DIAGNOSTICS_REPORT`
+
+```zsh
+> whoami
+Eduardo (aka F1NH4WK)
+
+> current_location
+University of São Paulo (USP) 
+
+> current_status
+Studying Information Systems
+
+> role
+Full Stack Developer
+```
+
+---
+
+### 🛠️ `CORE_MODULES_INSTALLED`
+
+> *Technologies powering my local runtime:*
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-00273F?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+---
+
+### 📜 `ACQUIRED_RUNES_&_CERTIFICATIONS`
+
+```json
+{
+  "clearance_level": "Intermediate",
+  "certifications": [
+    {
+      "title": "Github Foundations",
+      "issuer": "Github",
+      "status": "VERIFIED"
+    },
+    {
+      "title": "AWS Practioneer",
+      "issuer": "AWS",
+      "status": "IN PROGRESS"
+    }
+  ],
+  "academic_status": {
+    "institution": "University of São Paulo (USP)",
+    "course": "Information Systems",
+    "progress": "IN_PROGRESS"
+  }
+}
+```
+
+---
+
+### 📡 `GITHUB_RADAR`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F1NH4WK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1NH4WK&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<br>
+
+<div align="right">
+  <h3><i>"Allons-Y!"</i> 🪐</h3>
+  <p><code>CONNECTION_TERMINATED</code></p>
 </div>
